@@ -32,6 +32,8 @@ We'll need more than this, but it's a start.
 
 Finally, **please keep PRs small and simple** &mdash; it's just me over here!
 
+### Check out the first PR that was merged below! Woohoo! Thanks, @cutiko!!!
+
 ## Your first Pull Request
 Making your first Pull Request (PR) can be daunting, we all get anxious about it, so don't feel bad, and remember to be positive. Pull Requests are the way we all can collaborate to make a better open source ecosystem. Forgetting training on how to make your first PR:
 
