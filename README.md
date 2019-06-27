@@ -14,6 +14,8 @@ This is a repo intended as a safe place to practice your git skills. You can do 
 * Submit a PR with a code of conduct, a story (keep it public domain, please), a picture (same thing about public domain), etc.
 * Maintain a fork and rebase it every once in a while.
 * Collaborate with someone.
+* Checkout the [issues](https://github.com/kapunahelewong/git-playground/issues) for more ideas on types of PRs to submit.
+* Open an issue with an idea!
 
 You don't have to submit code or anything technical.
 It can be just a note saying hi, or something as simple as a typo fix. Or hey, how about a typo for someone else to fix?! 😊
