@@ -31,3 +31,12 @@ I'll start:
 We'll need more than this, but it's a start.
 
 Finally, **please keep PRs small and simple** &mdash; it's just me over here!
+
+## Your first Pull Request
+Making your first Pull Request (PR) can be daunting, we all get anxious about it, so don't feel bad, and remember to be positive. Pull Requests are the way we all can collaborate to make a better open source ecosystem. Forgetting training on how to make your first PR:
+
+ 1. Go to `pullrequests/` folder
+ 2. Open the index.html file
+ 3. Follow the instructions
+
+You are very close to making your name shine on the spotlight, best of lucks.
