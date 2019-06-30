@@ -26,6 +26,8 @@ Just added: Pet Pics! Add a photo of your favorite pet to the `pet-pics` folder 
 
 ![Pepper](pet-pics/Pepper.png)
 
+Look at her^^. She's serious about play, perfect for our Git Playground!! 
+
 ## Code of conduct
 
 I'll start:
