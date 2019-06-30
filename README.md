@@ -35,10 +35,10 @@ Finally, **please keep PRs small and simple** &mdash; it's just me over here!
 ### Check out the first PR that was merged below! Woohoo! Thanks, @cutiko!!!
 
 ## Your first Pull Request
-Making your first Pull Request (PR) can be daunting, we all get anxious about it, so don't feel bad, and remember to be positive. Pull Requests are the way we all can collaborate to make a better open source ecosystem. Forgetting training on how to make your first PR:
+Making your first Pull Request (PR) is exciting! Pull Requests are the way we all can collaborate to make a better open source ecosystem. For guidance on how to make your first PR:
 
  1. Go to `pullrequests/` folder
  2. Open the index.html file
  3. Follow the instructions
 
-You are very close to making your name shine on the spotlight, best of lucks.
+You are very close to making your name shine on the spotlight. You can do it!
