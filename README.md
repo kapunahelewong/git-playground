@@ -22,7 +22,9 @@ It can be just a note saying hi, or something as simple as a typo fix. Or hey, h
 
 ## New
 
-Just added: Pet Pics! Add a photo of your favorite pet to the `pet-pics` folder and add it to the `pet.md` file. I've started with my little dog, Pepper.
+Just added: Pet Pics! Add a photo of your favorite pet to the `pet-pics` folder and add it to the `pet-pics.md` file, following my example. I've started with my little dog, Pepper. Here's a preview!
+
+![Pepper](pet-pics/Pepper.png)
 
 ## Code of conduct
 
