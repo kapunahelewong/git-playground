@@ -20,6 +20,10 @@ This is a repo intended as a safe place to practice your git skills. You can do 
 You don't have to submit code or anything technical.
 It can be just a note saying hi, or something as simple as a typo fix. Or hey, how about a typo for someone else to fix?! 😊
 
+## New
+
+Just added: Pet Pics! Add a photo of your favorite pet to the `pet-pics` folder and add it to the `pet.md` file. I've started with my little dog, Pepper.
+
 ## Code of conduct
 
 I'll start:
@@ -31,6 +35,8 @@ I'll start:
 We'll need more than this, but it's a start.
 
 Finally, **please keep PRs small and simple** &mdash; it's just me over here!
+
+****
 
 ### Check out the first PR that was merged below! Woohoo! Thanks, @cutiko!!!
 
