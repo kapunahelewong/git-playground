@@ -20,13 +20,18 @@ This is a repo intended as a safe place to practice your git skills. You can do 
 You don't have to submit code or anything technical.
 It can be just a note saying hi, or something as simple as a typo fix. Or hey, how about a typo for someone else to fix?! 😊
 
+## Git Playground Spotlight
+
+When your PR is merged, you'll automatically appear in the [Git Playground Spotlight](https://cutiko.github.io/git-playground-spotlight/), as built by the most excellent @cutiko!🎉
+
+
 ## New
 
 Just added: Pet Pics! Add a photo of your favorite pet to the `pet-pics` folder and add it to the `pet-pics.md` file, following my example. I've started with my little dog, Pepper. Here's a preview!
 
 ![Pepper](pet-pics/Pepper.png)
 
-Look at her^^. She's serious about play, perfect for our Git Playground!! 
+Look at her^^. She's serious about play, perfect for our Git Playground!!
 
 ## Code of conduct
 
