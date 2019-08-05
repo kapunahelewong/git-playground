@@ -60,9 +60,9 @@ You are very close to making your name shine on the spotlight. You can do it!
 
 ## Adding Help Pages
 
-If you'd like to add a page with instructions for how to use a certain GitHub feature, à la `help-pages/pull-requests.html`, 
+If you'd like to add a page with instructions for how to use a certain GitHub feature, à la `help-pages/pull-requests.html`,
 follow these steps:
- 
+
  1. Create a new `.html` file in the `help-pages` directory
  2. Copy and paste the entire `<head>` section into your new file
  3. Copy and paste the `<nav>` section into the `<body>` of the file
