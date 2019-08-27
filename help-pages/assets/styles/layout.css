@@ -1,0 +1,19 @@
+hr {
+	width: 80%;
+}
+
+nav {
+	margin-bottom: 1em;
+}
+
+#page-content {
+	padding: 1em 5%;
+}
+
+#navbarSupportedContent {
+	justify-content: flex-end;
+}
+
+#navbarSupportedContent .navbar-nav {
+	margin-right: 1em;
+}

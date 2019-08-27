@@ -57,3 +57,15 @@ Making your first Pull Request (PR) is exciting! Pull Requests are the way we al
  3. Follow the instructions
 
 You are very close to making your name shine on the spotlight. You can do it!
+
+## Adding Help Pages
+
+If you'd like to add a page with instructions for how to use a certain GitHub feature, à la `help-pages/pull-requests.html`, 
+follow these steps:
+ 
+ 1. Create a new `.html` file in the `help-pages` directory
+ 2. Copy and paste the entire `<head>` section into your new file
+ 3. Copy and paste the `<nav>` section into the `<body>` of the file
+ 4. Make sure to wrap all of your page content in between `<section id="page-content">` and `</section>`
+ 5. Don't forget to add a `dropdown-item` that points to your page in the `nav` section
+ 6. Write to your heart's content and submit a pull request!
